@@ -1,0 +1,12 @@
+version: '3'
+services:
+  first_container:
+    image: log_image
+  second_container:
+    image: log_image
+  third_container:
+    image: log_image
+  forth_container:
+    image: log_image
+
+
